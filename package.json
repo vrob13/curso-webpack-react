@@ -37,5 +37,9 @@
     "url": "https://github.com/vrob13/curso-webpack-react/issues"
   },
   "homepage": "https://github.com/vrob13/curso-webpack-react#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
 }
